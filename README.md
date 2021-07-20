@@ -1,0 +1,2 @@
+# Sql-covid-portfolio
+Hello everyone!  I am vivek and this is my SQL Data Exploration of COVID-19 Portfolio.  I collected the information from a dataset that mainly describes covid deaths, vaccinations,new_deaths,new_cases, and many of each country per day as a CSV file from https://ourworldindata.org/covid-deaths and converted into an Excel worksheet.I used Microsoft SQL Server Management Studio-19 and created databases with the excel sheets and started to code. 
